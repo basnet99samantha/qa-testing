@@ -1,4 +1,3 @@
-
 from page.status_page import StatusPage, check_status
 from utilities.file_utils import read_urls, write_results
 from configuration.config import CSV_INPUT_FILE, CSV_OUTPUT_FILE
